@@ -7,7 +7,7 @@ with open('README.md', 'w') as f:
 <h3 align="center">👋 Hello! I'm Yibo.</h3>
 
 <p align="center">
-  <a href="https://haoyizebo.com">Blog</a> •
+  <a href="https://www.haoyizebo.com">Blog</a> •
   <a href="https://github.com/zhaoyibo">GitHub</a>
 </p>
 
@@ -19,7 +19,7 @@ with open('README.md', 'w') as f:
 ### Latest blog posts
 
 ''')
-    ret = requests.get('https://haoyizebo.com/atom.xml')
+    ret = requests.get('https://www.haoyizebo.com/atom.xml')
     ret.encoding='utf-8'
     feed = ret.text
     root = ET.fromstring(feed)
@@ -31,5 +31,5 @@ with open('README.md', 'w') as f:
         f.write('- {} [{}]({})\n'.format(published, text, url))
 
     f.write('''
-[>>> More blog posts](https://haoyizebo.com/archives/)
+[>>> More blog posts](https://www.haoyizebo.com/archives/)
 ''')
