@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">👋 Hello! I'm Yibo.</h3>
 
 <p align="center">
-  <a href="https://haoyizebo.blog">Blog</a> •
+  <a href="https://haoyizebo.com">Blog</a> •
   <a href="https://github.com/zhaoyibo">GitHub</a>
 </p>
 
@@ -32,7 +32,7 @@ Only the latest **5** articles are displayed here.
 * [了解 5 个 Git 工作流程，让我们交付更好的代码并改善开发流程](https://www.haoyizebo.com/posts/ffa5b4ca/)
 * [盐速跑者 —— 常见「盐丸」成分对比](https://www.haoyizebo.com/posts/647110f5/)
 * [博客换域名的那些事](https://www.haoyizebo.com/posts/753f2273/)
-* [【Chester Bennington of Linkin Park: Three Years Later (RIP)](https://www.haoyizebo.com/posts/3c4947a3/)
+* [Chester Bennington of Linkin Park: Three Years Later (RIP)](https://www.haoyizebo.com/posts/3c4947a3/)
 * [解决 Hexo 在使用 Node.js 14 时的 Accessing non-existent property 'xxx' of module exports inside circular dependency 问题](https://www.haoyizebo.com/posts/710984d0/)
 <!--END_SECTION:posts-->
 
