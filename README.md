@@ -19,4 +19,4 @@
 - 2020-07-21 [Chester Bennington of Linkin Park: Three Years Later (RIP)](https://www.haoyizebo.com/posts/3c4947a3/)
 - 2020-07-19 [解决 Hexo 在使用 Node.js 14 时的 Accessing non-existent property 'xxx' of module exports inside circular dependency 问题](https://www.haoyizebo.com/posts/710984d0/)
 
-  [>>> More blog posts](https://haoyizebo.com/archives/)
+[>>> More blog posts](https://haoyizebo.com/archives/)
