@@ -31,5 +31,5 @@ with open('README.md', 'w') as f:
         f.write('- {} [{}]({})\n'.format(published, text, url))
 
     f.write('''
-  [>>> More blog posts](https://haoyizebo.com/archives/)
+[>>> More blog posts](https://haoyizebo.com/archives/)
 ''')
