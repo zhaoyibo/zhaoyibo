@@ -13,8 +13,8 @@ with open('README.md', 'w') as f:
 
 ### Github Statistics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=zhaoyibo&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoyibo&layout=compact&count_private=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=zhaoyibo&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default&)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoyibo&layout=compact&count_private=true&theme=default&hide=css)
 
 ### Latest blog posts
 
@@ -31,5 +31,5 @@ with open('README.md', 'w') as f:
         f.write('- {} [{}]({})\n'.format(published, text, url))
 
     f.write('''
-[>>> More blog posts](https://haoyizebo.com/archives/)
+  [>>> More blog posts](https://haoyizebo.com/archives/)
 ''')
