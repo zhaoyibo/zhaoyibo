@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-![Stats](https://github.com/zhaoyibo"><img src="https://github-readme-stats.vercel.app/api?username=zhaoyibo&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=zhaoyibo&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default)
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoyibo&layout=compact&count_private=true&theme=default)
 
 ### Blog Posts
