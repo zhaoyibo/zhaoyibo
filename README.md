@@ -13,10 +13,10 @@
 
 ### Latest blog posts
 
+- 2020-12-14 [记一次线上问题排查与解决：从 Redis 超时到 Apache Common-pool2 源码剖析](https://www.haoyizebo.com/posts/c8ef9054/)
+- 2020-11-20 [基于 Redis ( Tair ) 的 Hash 实现滑动窗口](https://www.haoyizebo.com/posts/e6aa238e/)
 - 2020-08-18 [博客评论系统迁至 remark42](https://www.haoyizebo.com/posts/fa15a0b0/)
 - 2020-08-08 [了解 5 个 Git 工作流程，让我们交付更好的代码并改善开发流程](https://www.haoyizebo.com/posts/ffa5b4ca/)
 - 2020-08-04 [盐速跑者——常见「盐丸」成分对比](https://www.haoyizebo.com/posts/647110f5/)
-- 2020-07-24 [博客换域名的那些事](https://www.haoyizebo.com/posts/753f2273/)
-- 2020-07-21 [Chester Bennington of Linkin Park: Three Years Later (RIP)](https://www.haoyizebo.com/posts/3c4947a3/)
 
 [>>> More blog posts](https://www.haoyizebo.com/archives/)
